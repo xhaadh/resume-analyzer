@@ -28,7 +28,7 @@ Whether you’re a job seeker looking to improve your resume or a recruiter aimi
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Easy & convenient auth**: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
+👉 **Easy & convenient auth**: Handle authentication entirely in the browser using Puter.js
 
 👉 **Resume upload & storage**: Let users upload and store all their resumes in one place, safely and reliably.
 
